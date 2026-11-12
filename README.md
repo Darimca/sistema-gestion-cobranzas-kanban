@@ -2,6 +2,10 @@
 
 Proyecto open source (licencia **GPL-3.0**) que documenta un caso de estudio donde se aplica la **metodología Kanban** para gestionar el desarrollo de un sistema web de gestión de cobranzas para clientes en mora.
 
+## Tablero Kanban
+
+El tablero del proyecto está en GitHub Projects: **[Tablero Kanban — Sistema de Cobranzas](https://github.com/users/Darimca/projects/1)** (pestaña *Projects* del repositorio). Cada tarjeta es un *issue* del repositorio y se mueve entre las columnas **Inicio**, **En Proceso** y **Finalizado**.
+
 ## Descripción del caso
 
 **CrediYa** es una empresa de microcréditos que registra más de 1 200 clientes y gestiona el cobro de sus créditos en hojas de cálculo sueltas. El área de cobranzas no tiene visibilidad del estado real de los clientes en mora, los pagos se registran con retraso y no existe un historial confiable por cliente.
